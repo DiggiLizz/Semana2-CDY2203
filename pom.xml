@@ -21,7 +21,7 @@
     <java.version>17</java.version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.release>17</maven.compiler.release>
-    <jjwt.version>0.12.5</jjwt.version>
+    <jjwt.version>0.13.0</jjwt.version>
     <itext.version>9.1.0</itext.version>
   </properties>
 
