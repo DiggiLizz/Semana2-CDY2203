@@ -22,7 +22,7 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.release>17</maven.compiler.release>
     <jjwt.version>0.12.5</jjwt.version>
-    <itext.version>9.1.0</itext.version>
+    <itext.version>9.3.0</itext.version>
   </properties>
 
   <!-- ================== DEPENDENCIAS ================== -->
